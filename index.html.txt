@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>? PikachuBoxPvP Minecraft Sunucusu ?</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.8;
+            margin: 20px;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #ffcb05; /* Pikachu'nun rengi */
+            text-shadow: 2px 2px #333;
+        }
+        p {
+            text-align: center;
+            margin: 10px 0;
+        }
+        .info-box {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 10px 0;
+        }
+        ul li:before {
+            content: "?";
+            margin-right: 10px;
+            color: #ffcb05;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>? PikachuBoxPvP Minecraft Sunucusu ?</h1>
+    <div class="info-box">
+        <p><strong>?? Efsane PvP Deneyimi Sizi Bekliyor! ??</strong></p>
+        <p><strong>?? IP Adresi:</strong> PikachuBoxpvp.aternos.me</p>
+        <p><strong>?? Sürüm:</strong> 1.16.5-1.20</p>
+        <p><strong>?? Port:</strong> 34756</p>
+        <h2>?? Özellikler:</h2>
+        <ul>
+            <li>??? <strong>Özel Kitler:</strong> Medya kitini almak için sunucunun reklamýný yapmanýz ve 150 beðeni almanýz lazým.</li>
+            <li>?? <strong>Etkinlikler ve Ödüller:</strong> Kazanmak için mücadele edin!</li>
+            <li>?? <strong>Dostça Topluluk:</strong> Herkes için eðlenceli ve rekabetçi bir ortam.</li>
+        </ul>
+        <p><strong>?? TikTok:</strong> Pikachubsofficial</p>
+    </div>
+    <footer>
+        © 2024 PikachuBoxPvP. Tüm haklarý saklýdýr.
+    </footer>
+</body>
+</html>
