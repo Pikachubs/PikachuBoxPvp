@@ -15,5 +15,3 @@
 🤝 Dostça Topluluk: Herkes için eğlenceli ve rekabetçi bir ortam.
 
 📱TikTok=Pikachubsofficial
-
-
